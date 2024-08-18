@@ -1,0 +1,320 @@
+body {
+    color:white;
+    background-image: url(https://www.creativeuncut.com/gallery-39/art/gi-inazuma-landscape.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment:fixed;
+    margin: 0px;
+    font-family: "Kanit", sans-serif;
+    margin-bottom: 57px;
+
+   
+}
+
+.logo{
+    margin-left: 75%;
+    width: 64px;
+    height: 64px;
+
+}
+
+header {
+    border-bottom: solid 4px rgb(127,127,167);
+    padding: 27.7px;
+    font-size: 40px;
+    background: rgb(127,127,167);
+    display: flex; 
+    
+}
+
+.title-1{
+    font-size: 40px;
+}
+
+.dicas-intro{
+    display:flex;
+    margin-top: -24px;
+    font-size: 17px;
+}
+
+.numb-one {
+    background: rgb(84 74 177);
+    margin-top: 84px;
+    display:flex;
+    justify-content: center;
+}
+
+.chama-texto {
+    margin-right: 5%;
+}
+
+.title-2{
+    text-align: center;
+}
+
+.charts {
+    background: rgb(51, 40, 73);
+    overflow-x: auto;
+    margin-bottom: 35px;
+    margin-top: 35px;
+}
+
+.raiden {
+    height: 125px;
+    margin-left: 30px;
+    margin-right: 10px;
+}
+
+.nahida {
+    height: 125px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.kazuha {
+    height: 125px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.yelan {
+    height: 125px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.zhongli {
+    height: 125px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.furina {
+    height: 125px;
+    margin-left: 10px;
+    margin-right: 22px;
+}
+
+.raiden-shogun {
+    margin-top: 50px;
+    background-color: rgb(65, 38, 90);
+    align-items: flex-start;
+    padding: 20px;
+}
+
+.Nahida-top {
+    margin-top: 50px;
+    background-color: rgb(76, 130, 88);
+    align-items: flex-start;
+    padding: 20px;
+}
+
+.Kazuha-top {
+    margin-top: 50px;
+    background-color: rgb(122, 46, 41);
+    align-items: flex-start;
+    padding: 20px;
+}
+
+.yelan-top {
+    margin-top: 50px;
+    background-color: rgb(31, 33, 98);
+    align-items: flex-start;
+    padding: 20px;
+}
+
+.zhongli-top {
+    margin-top: 50px;
+    background-color: rgb(79, 49, 40);
+    align-items: flex-start;
+    padding: 20px;
+}
+
+.Furina-top {
+    margin-top: 50px;
+    background-color: rgb(100, 138, 203);
+    align-items: flex-start;
+    padding: 20px;
+}
+
+.raiden-shogun img {
+    height: 500px;
+    margin-top: 37px;
+    margin-left: -10px;
+    display: block;
+    align-content: center;
+}
+
+.nahida-top img {
+    height: 500px;
+    margin-top: 37px;
+    margin-left: -10px;
+    display: block;
+    align-content: center;
+}
+
+.kazuha-top img {
+    height: 500px;
+    margin-top: 37px;
+    margin-left: -10px;
+    display: block;
+    align-content: center;
+}
+
+.yelan-top img {
+    height: 500px;
+    margin-top: 37px;
+    margin-left: -10px;
+    display: block;
+    align-content: center;
+}
+
+.zhongli-top img {
+    height: 500px;
+    margin-top: 37px;
+    margin-left: -10px;
+    display: block;
+    align-content: center;
+}
+
+.furina-top img {
+    height: 500px;
+    margin-top: 37px;
+    margin-left: -10px;
+    display: block;
+    align-content: center;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.raiden-shogun h1{
+    font-size: 50px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: -30px;
+}
+
+.nahida-top h1{
+    font-size: 50px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: -30px;
+}
+
+.kazuha-top h1{
+    font-size: 50px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: -30px;
+}
+
+.yelan-top h1{
+    font-size: 50px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: -30px;
+}
+
+.zhongli-top h1{
+    font-size: 50px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: -30px;
+}
+
+.furina-top h1{
+    font-size: 50px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: -30px;
+}
+
+.raiden-shogun .text {
+    display: flex;
+}
+
+.nahida-top .text {
+    display: flex;
+}
+
+.Kazuha-top .text {
+    display: flex;
+}
+
+.yelan-top .text {
+    display: flex;
+}
+
+.Zhongli-top .text {
+    display: flex;
+}
+
+.Furina-top .text {
+    display: flex;
+}
+
+.raiden-shogun p {
+    font-size: large;
+    margin-top: 25px;
+}
+
+.Nahida-top p {
+    font-size: large;
+    margin-top: 25px;
+}
+
+.kazuha-top p {
+    font-size: large;
+    margin-top: 25px;
+}
+
+.yelan-top p {
+    font-size: large;
+    margin-top: 25px;
+}
+
+.zhongli-top p {
+    font-size: large;
+    margin-top: 25px;
+}
+
+.furina-top p {
+    font-size: large;
+    margin-top: 25px;
+}
+
+.raiden-shogun h3 {
+    font-size: 35px;
+    margin-left: 37px;
+}
+
+.nahida-top h3 {
+    font-size: 35px;
+    margin-left: 37px;
+}
+
+.kazuha-top h3 {
+    font-size: 35px;
+    margin-left: 37px;
+}
+
+.yelan-top h3 {
+    font-size: 35px;
+    margin-left: 37px;
+}
+
+.Zhongli-top h3 {
+    font-size: 35px;
+    margin-left: 37px;
+}
+
+.Furina-top h3 {
+    font-size: 35px;
+    margin-left: 37px;
+}
+
+li {
+    margin-top: 20px;
+}
